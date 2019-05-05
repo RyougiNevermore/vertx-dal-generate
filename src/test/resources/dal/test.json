@@ -1,0 +1,20 @@
+{
+  "tables": [
+    {
+      "schema": "CDST",
+      "name": "TEST_USER",
+      "columns": [
+        {
+          "name": "a",
+          "type": "String",
+          "default": "1"
+        },
+        {
+          "name": "b",
+          "type": "Integer",
+          "default": "0"
+        }
+      ]
+    }
+  ]
+}
